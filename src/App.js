@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>My 2ndish React App</h1>
+      <h1>Hello, This is Zac Smucker-Bryan from Madison, WI!!!!</h1>
     </div>
   );
 }
